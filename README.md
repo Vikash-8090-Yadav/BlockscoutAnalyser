@@ -10,11 +10,16 @@ A powerful web application for analyzing Ethereum blockchain transactions using 
   - Monitor transaction success rates
   - Analyze transaction patterns
 
+<img width="1097" alt="Screenshot 2025-03-29 031017" src="https://github.com/user-attachments/assets/294a7b8b-9397-4e8a-889e-9d52fb3916d5" />
+
+
 - 💰 **Token Transfers**
   - Track ERC-20 token transfers
   - View token balances
   - Monitor token transaction history
   - Analyze token transfer patterns
+ 
+
 
 - 📊 **Analytics Dashboard**
   - Transaction value distribution
@@ -22,8 +27,11 @@ A powerful web application for analyzing Ethereum blockchain transactions using 
   - Transaction type breakdown
   - Real-time data updates
 
+
+ <img width="1098" alt="Screenshot 2025-03-29 031057" src="https://github.com/user-attachments/assets/a69a5d44-cb87-4d6e-8c7c-5fb1c46e3540" />
+
+
 - 🔐 **Wallet Integration**
-  - Connect with MetaMask
   - View personal transaction history
   - Track wallet balances
   - Secure authentication
@@ -109,4 +117,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Vikash Kumar Yadav - [GitHub](https://github.com/Vikash-8090-Yadav)
 
-Project Link: [https://github.com/Vikash-8090-Yadav/BlockscoutAnalyser](https://github.com/Vikash-8090-Yadav/BlockscoutAnalyser)
+Project Link: [Live-Link](https://blockscout-analyser.vercel.app/)
